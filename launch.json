@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CriadorDeObjetos",
+            "request": "launch",
+            "mainClass": "CriadorDeObjetos",
+            "vmArgs": "-Xmx3G -Xms2G" 
+        }
+    ]
+}
